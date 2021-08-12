@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<shop>
+		<item id = "goldfish" value = "10"/>
+		<item id = "swampfish" value = "15"/>
+		<item id = "swordfish" value = "20"/>
+		<item id = "food" value = "1"/>
+</shop>

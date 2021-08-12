@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<builder>
+	<goldfish num = "10">
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.5,0.5,0.1)" 		color = "-1468806"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.6666667,0.75,0.1)" color = "-360334"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.75,0.8333333,0.1)" color = "-24454"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(1.0,1.0,0.1)" 		color = "-23296"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.75,1.0,0.1)" 		color = "-29696"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.6666667,0.75,0.1)" color = "-32944"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.5,0.5,0.1)" 		color = "-1015680"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.33333334,0.25,0.1)" color = "-40121"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.5,0.5,0.1)" 		color = "-47872"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.6666667,0.75,0.1)" color = "-65536"/>
+	</goldfish>
+	<deadfish num = "10">
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.5,0.5,0.1)" 		color = "-3355444"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.6666667,0.75,0.1)" color = "-6710887"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.75,0.8333333,0.1)" color = "-7632503"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(1.0,1.0,0.1)" 		color = "-10066330"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.75,1.0,0.1)" 		color = "-13421773"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.6666667,0.75,0.1)" color = "-7632503"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.5,0.5,0.1)" 		color = "-16777216"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.33333334,0.25,0.1)" color = "-13421773"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.5,0.5,0.1)" 		color = "-3355444"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.6666667,0.75,0.1)" color = "-10066330"/>
+	</deadfish>
+	<swordfish num = "10">
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.02,0.1,0.3)" color = "-5192482"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.2,0.2,0.1)" color = "-5383962"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.5,0.5,0.1)" color = "-5185306"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.75,0.85,0.1)" color = "-5247250"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(1.0,1.0,0.05)" color = "-7876870"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.85,0.85,0.05)" color = "-16724271"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.55,0.5,0.1)" color = "-12004916"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.33333334,0.25,0.1)" color = "-12525360"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.5,0.5,0.09)" color = "-10185235"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention = "(0.5,0.9,0.01)" color = "-14774017"/>
+	</swordfish>
+	<swampfish num = "10">
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention =  "(0.5,0.5,0.1)" 			color = "-6751336"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention =  "(0.6666667,0.75,0.1)" 	color = "-16711809"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention =  "(0.75,0.8333333,0.1)" 	color = "-8586240"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention =  "(1.0,1.0,0.1)" 			color = "-8388864"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention =  "(0.75,1.0,0.11)" 		color = "-16713062"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention =  "(0.6666667,0.75,0.12)" 	color = "-5374161"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention =  "(0.5,0.5,0.12)" 			color = "-13447886"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention =  "(0.33333334,0.25,0.12)" 	color = "-6632142"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention =  "(0.5,0.5,0.12)" 			color = "-14513374"/>
+		<ConnectingOval position = "(0,0,0)" rotation = "(0,0,0,0)" dimmention =  "(0.8,0.9,0.01)" 			color = "-9728477"/>
+	</swampfish>
+</builder>
+
+

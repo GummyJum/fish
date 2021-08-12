@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<def>
+		<goldfish dimmention="(1.0,2.0,5.0)" fishEating="false" position="(0.0,0.0,0.0)" rotation="(0.0,0.0,0.0,1.0)" size="0.3" speed="0.1" vicinity="20.0" wantedFoodType=""/>
+		<deadfish dimmention="(1.0,2.0,5.0)" fishEating="false" position="(0.0,0.0,0.0)" rotation="(0.0,0.0,0.0,1.0)" size="0.3" speed="0.1" vicinity="20.0" wantedFoodType=""/>
+		<swordfish dimmention="(2.0,4.0,10.0)" fishEating="true" position="(0.0,0.0,0.0)" rotation="(0.0,0.0,0.0,1.0)" size="2" speed="0.15" vicinity="30.0" wantedFoodType="goldfish"/>
+		<swampfish dimmention="(3.0,4.0,5.0)" fishEating="false" position="(0.0,0.0,0.0)" rotation="(0.0,0.0,0.0,1.0)" size="1" speed="0.2" vicinity="50.0" wantedFoodType=""/>
+</def>

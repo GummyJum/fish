@@ -1,0 +1,12 @@
+About -
+
+Fort destruction 3D is a fish simulation game.
+Your goal is to thrive and prosper in the four walls of the fish-tank.
+You can buy and sell fish, watch them, and even feed them.
+
+This game an open source project, written in Java programing launguage by
+Dror Sharf, and is submitted for the Matriculation in computer science.
+The source code is avilable at - https://code.google.com/p/fortdestruction3d/source/list
+
+For technical support and issues, please contact me: gumjum.o.o@gmail.com.
+

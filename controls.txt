@@ -1,0 +1,12 @@
+Controls:
+
+arrow-keys
+        -camera control
+'q' or 'z'
+        -changes the camera radius
+space-bar
+        -toggle simulation
+'x'
+        -toggle debug mode
+mouse - left click
+        -shows fish information
